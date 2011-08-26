@@ -1,4 +1,4 @@
-var JSONH = function () { // "use strict"; // if you want
+exports = module.exports = function () { "use strict"; // if you want
     
     /**
      * Copyright (C) 2011 by Andrea Giammarchi, @WebReflection
@@ -89,5 +89,3 @@ var JSONH = function () { // "use strict"; // if you want
     };
     
 }();
-
-exports = JSONH;
